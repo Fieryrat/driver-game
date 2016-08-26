@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InAppController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PauseScripts.cs" Line="39" Column="16" />
+      <File FileName="Assets/Scripts/Player.cs" Line="98" Column="33" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="134" Column="1" />
+      <File FileName="Assets/Scripts/TutorialController.cs" Line="8" Column="18" />
+      <File FileName="Assets/Scripts/BootQueue.cs" Line="24" Column="47" />
+      <File FileName="Assets/Scripts/GameUI.cs" Line="33" Column="38" />
+      <File FileName="Assets/Scripts/ReloadGameAnimation.cs" Line="15" Column="46" />
+      <File FileName="Assets/Scripts/ScreenShot.cs" Line="8" Column="61" />
+      <File FileName="Assets/Scripts/CarsController.cs" Line="87" Column="73" />
+      <File FileName="Assets/Scripts/CoinsPackSelectorController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarsSelectionController.cs" Line="143" Column="5" />
+      <File FileName="Assets/Scripts/Car.cs" Line="21" Column="16" />
+      <File FileName="Assets/Scripts/Boot.cs" Line="26" Column="13" />
+      <File FileName="Assets/Scripts/GameStatistic.cs" Line="37" Column="99" />
+      <File FileName="Assets/Scripts/GameCenterController.cs" Line="46" Column="40" />
+      <File FileName="Assets/Scripts/MusicController.cs" Line="42" Column="110" />
+      <File FileName="Assets/Scripts/InAppController.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
